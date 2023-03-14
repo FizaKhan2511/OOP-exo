@@ -15,6 +15,8 @@ class Data
             'porte' => 'door',
             'musique' => 'music',
             'biscuit' => 'cookie',
+            'mur' => 'wall',
+            'livre' => 'book',
         ];
     }
 }

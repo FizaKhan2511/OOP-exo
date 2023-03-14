@@ -1,5 +1,7 @@
 <?php
 
+require_once 'Data.php';
+
 class LanguageGame
 {
     private array $words;
